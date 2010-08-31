@@ -1,0 +1,4 @@
+Hello Everyone,
+
+This is a simple demo for showing the database utility of android. Database used in here is SQLite. It has a very simple implementation and very similar to flat file system. In this demo I create a sample database and add users and then login by retrieving data from the database. In this demo I also create a splash screen to open the application. Its just for fun. You can use this code and build on it. I have no problem by distributing the code and being used by people until and unless my name is mentioned. Enjoy the demo.
+                                                                                     
