@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, DatabaseActivity!</string>
+    <string name="app_name">Simple Login Example</string>
+    <string name="title">Login Page</string>
+	<string name="txtUname">Username</string>
+	<string name="txtPassword">Password</string>
+	<string name="buttonLogin">Login</string>
+	<string name="buttonSignUp">New User?</string>
+	<string name="newuser">New User Page</string>
+	<string name="email">Email ID</string>
+	<string name="buttonRegister">Register</string>
+	<string name="buttonCancel">Cancel</string>
+	<string name="loggedin">User Logged In</string>
+	<string name="buttonShowAll">All Users</string>
+<string name="adminTitle">Admin Login</string>
+</resources>
